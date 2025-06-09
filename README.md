@@ -97,7 +97,7 @@ I'm always excited to collaborate on interesting projects, discuss new technolog
 - 📧 **Email:** yash.hulle3699@gmail.com
 - 📱 **Instagram:** [@infinit_y_ash](https://instagram.com/infinit_y_ash)
 - 💬 **Discord:** [Join my server](https://discord.gg/XqtGPJWC)
-- 📄 **Resume:** [Download PDF](https://drive.google.com/uc?export=download&id=1_dpZ4RndUOwoJ3SD56R2dOIFsU_pr3cz)
+- 📄 **Resume:** [Download PDF](https://drive.google.com/uc?export=download&id=1NQWQAnTPftODYvQukK8sJhy_mQZ-UoX_)
 
 <h3 align="center">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 
