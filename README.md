@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="auto" src="https://github.com/INFINITYASH3699/INFINITYASH3699/blob/main/b1.png">
+<img align="center" alt="coding" width="auto" src="https://github.com/INFINITYASH3699/INFINITYASH3699/blob/main/b3.png">
 
 <h1 align="center">Hi 👋, I'm Yash Hulle</h1>
 <h3 align="center">Full-Stack Developer | Cloud Enthusiast | Problem Solver</h3>
